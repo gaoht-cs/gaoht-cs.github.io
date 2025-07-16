@@ -4,6 +4,10 @@ theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [author]
 name = "Haotian Gao"
 homepage = "http://gaoht-cs.github.io/"
