@@ -1,0 +1,16 @@
+preprint:
+- title: "NeurBench: Benchmarking Learned Database Components with Data and Workload Drift Modeling"
+  authors:
+    - Zhanhao Zhao
+    - Haotian Gao
+    - Naili Xing
+    - Lingze Zeng
+    - Meihui Zhang
+    - Gang Chen
+    - Manuel Rigger
+    - Beng Chin Ooi
+  book: "VLDB (Under Revision)"
+  date: "2026"
+  links:
+    - link: "https://arxiv.org/abs/2503.13822"
+      text: "PDF (Preprint)"

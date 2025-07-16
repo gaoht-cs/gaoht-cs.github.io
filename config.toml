@@ -1,0 +1,24 @@
+relativeURLs = true
+title = "Haotian Gao"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+
+[author]
+name = "Haotian Gao"
+homepage = "http://gaoht-cs.github.io/"
+
+[params]
+logo = "/avatar.png"
+shortbio = "PhD Candidate in Computer Science"
+officeAddress = "Singapore"
+email = "gaohaotian@comp.nus.edu.sg"
+ORCID = "0009-0009-5386-6629"
+linkedin = "https://www.linkedin.com/in/haotian-gao/"
+
+[markup]
+  [markup.highlight]
+    style = "solarized-light"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
