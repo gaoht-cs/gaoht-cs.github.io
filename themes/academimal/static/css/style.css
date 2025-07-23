@@ -421,6 +421,18 @@ footer {
   margin: 0 0 20px;
 }
 
+img[src$='#floatleft'] {
+	max-width: 3rem;
+	height: auto;
+	float: left;
+}
+
+img[src$='#floatright'] {
+	max-width: 3rem;
+	height: auto;
+	float: right;
+}
+
 @media print, screen and (max-width: 960px) {
   div.wrapper {
     width: auto;
